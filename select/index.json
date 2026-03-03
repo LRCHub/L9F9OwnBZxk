@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "青春の影",
+  "base_artist": "チューリップ",
+  "createdAt": "2026-03-03T10:18:18.686475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青春の影 - Seishun no Kage",
+      "artist": "TULIP",
+      "has_synced": true,
+      "path": "select/01_青春の影_-_Seishun_no_Kage_TULIP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "Megumi Mori",
+      "has_synced": false,
+      "path": "select/02_青春の影_Megumi_Mori.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/03_青春の影_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "TULIP",
+      "has_synced": true,
+      "path": "select/04_青春の影_TULIP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "中村あゆみ",
+      "has_synced": false,
+      "path": "select/05_青春の影_中村あゆみ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "チューリップ",
+      "has_synced": true,
+      "path": "select/06_青春の影_チューリップ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/07_青春の影_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "Suzuki, Masayuki",
+      "has_synced": true,
+      "path": "select/08_青春の影_Suzuki,_Masayuki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "Jun Shibata",
+      "has_synced": true,
+      "path": "select/09_青春の影_Jun_Shibata.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "Jun Shibata 柴田淳",
+      "has_synced": false,
+      "path": "select/10_青春の影_Jun_Shibata_柴田淳.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青春の影 (2006 Anniversary Mix)",
+      "artist": "チューリップ",
+      "has_synced": true,
+      "path": "select/11_青春の影_(2006_Anniversary_Mix)_チューリップ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "クリス・ハート",
+      "has_synced": true,
+      "path": "select/12_青春の影_クリス・ハート.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "青春の影 [Live]",
+      "artist": "財津和夫",
+      "has_synced": true,
+      "path": "select/13_青春の影_[Live]_財津和夫.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "青春の影",
+      "artist": "Various Artists/チューリップ",
+      "has_synced": true,
+      "path": "select/14_青春の影_Various_Artists_チューリップ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春の影",
+      "artist": "チューリップ",
+      "has_synced": false,
+      "path": "select/pl_01_青春の影_チューリップ.txt"
+    }
+  ]
+}
